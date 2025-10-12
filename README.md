@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is THAMIZHARASU... and I'm an AI/ML Enthusiast ...,</h2>
+<h1 align="center">Hi 👋! My name is THAMIZHARASU... and I'm an AI/ML Enthusiast ...,</h1>
 
 ###
 
