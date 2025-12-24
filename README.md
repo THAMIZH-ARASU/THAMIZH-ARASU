@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Thamizh
+## About Me 🤓
 
-<!--
-**THAMIZH-ARASU/THAMIZH-ARASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
+- I love AI/ML/DS stuffz
+- Avg Linux enjoyer (I use Arch BTW🗿)
+- I build random demo projects (mostly in python)
+- I like learning new technologies and staying up to date
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goals 2026 🎯
+
+- Write better code 🧑‍💻
+- Focus on health a bit 💪
