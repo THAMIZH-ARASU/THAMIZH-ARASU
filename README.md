@@ -1,7 +1,7 @@
 # Hi there, I'm Thamizh
 ## About Me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Titanic Pose with Attention" src="titanic.png" />
 
 - I love AI/ML/DS stuffz
 - Avg Linux enjoyer (I use Arch BTW🗿)
